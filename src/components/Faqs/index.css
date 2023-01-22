@@ -1,0 +1,18 @@
+/* Write your code here. */
+.app {
+  background-color: rgb(205, 243, 243);
+  width: 100%;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.faq-container {
+  background-color: aliceblue;
+  width: 90%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 2px 2px white;
+  min-height: 200px;
+  text-align: center;
+  margin: 30px;
+}
